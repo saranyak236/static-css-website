@@ -1,10 +1,9 @@
-*{
-    margin:0;
-}
+
 nav{
     background-color: black;
     color: white;
     padding: 30px;
+    margin:0;
     
 }
 
@@ -71,7 +70,7 @@ h4,h5{
     cursor: pointer;
 }
 .about{
-    padding-top: 120px;
+    padding-top: 100px;
 }
 .contact{
     background-color: black;
